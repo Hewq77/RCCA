@@ -1,5 +1,6 @@
 # RCCA 
-This repository contains the PyTorch implementation of the paper "A New Context-Aware Framework for Defending Against Adversarial Attacks in Hyperspectral Image Classification". (_IEEE TGRS 2023_) [[pdf]](https://ieeexplore.ieee.org/document/10056357)
+This repository contains the PyTorch implementation of the paper "A New Context-Aware Framework for Defending Against Adversarial Attacks in Hyperspectral Image Classification". 
+(_IEEE TGRS 2023_) [[pdf]](https://ieeexplore.ieee.org/document/10056357)
 
 ## Usage
 ### 1. Installation
