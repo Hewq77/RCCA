@@ -1,6 +1,6 @@
 # RCCA 
 This repository contains the PyTorch implementation of the paper "A New Context-Aware Framework for Defending Against Adversarial Attacks in Hyperspectral Image Classification". (_IEEE TGRS 2023_) [[pdf]](https://ieeexplore.ieee.org/document/10056357)  
-By [Bing Tu](https://faculty.nuist.edu.cn/tubing/zh_CN/index/144219/list/index.htm), Wangquan He, Qianming Li, Yishu Peng, [Antonio Plaza](https://www2.umbc.edu/rssipl/people/aplaza/)
+By [Bing Tu](https://faculty.nuist.edu.cn/tubing/zh_CN/index/144219/list/index.htm), Wangquan He, Qianming Li, Yishu Peng, and [Antonio Plaza](https://www2.umbc.edu/rssipl/people/aplaza/)
 
 
 ## Usage
